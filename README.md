@@ -1,4 +1,4 @@
-# Robot-Jump-Rope by Miraj, Cole Evan
+# Robot-Jump-Rope by Miraj, Cole, and Evan
 
 To run up this project, download the .py file in the repo, and put it inside a standard ROS2 package (you'll have to do this). Make sure to include dependencies like rclpy, sensor_msgs, geometry_msgs, and turtlebot3_msgs. 
 
